@@ -3,14 +3,10 @@
 
 //run the kotlin code on jvm using the java command:
 //java -jar test.jar
-const val question: String = "What is your name?"
 
 fun main(args: Array<String>) {
 
-    println("Hello World!")
+    println("Hello, here is a test of importing a project from git")
 
-    lateinit var anwser: String
-    anwser = "Jonathan"
 
-    println("Hello $anwser")
 }
